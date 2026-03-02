@@ -1,0 +1,8 @@
+base   budget
+author Claude (Anthropic)
+email  support@example.com
+date   2026-02-23
+name   Budget Plugin
+desc   Create and maintain budgets with income/expense tracking, categories, CSV import (Golden 1 compatible), credit card tracking, and summaries
+url    https://www.dokuwiki.org/plugin:budget
+version 5.14.10
